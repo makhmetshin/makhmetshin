@@ -65,7 +65,7 @@ I work with: `Microservices` `REST APIs`
 
 ✔️ Clean Code & SOLID  
 ✔️ Microservices Patterns  
-✔️ Observability & Monitoring
+✔️ Observability & Monitoring  
 ✔️ CI/CD & Automation  
 
 ---
