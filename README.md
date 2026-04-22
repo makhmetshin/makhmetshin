@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hi,%20I'm%20Marat%20Akhmetshin!&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=Java%20Developer%20%7C%20Backend%20Engineer&descAlignY=70&descSize=18" />
 </p>
@@ -7,10 +5,11 @@
 ## ☕ About me
 
 Java Developer focused on building reliable and scalable backend systems  
-💡 Passionate about clean architecture and microservices  
-🚀 Always improving performance, observability, and system design  
+🔬 Computer nerd, never stop learning  
+⚡ Passionate about coding and creating  
+🚀 Always improving performance and system design  
 
-I work with: `Microservices` `Distributed Systems` `REST APIs`  
+I work with: `Microservices` `REST APIs`  
 
 ---
 
@@ -28,11 +27,14 @@ I work with: `Microservices` `Distributed Systems` `REST APIs`
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/H2-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -63,11 +65,13 @@ I work with: `Microservices` `Distributed Systems` `REST APIs`
 
 ✔️ Clean Code & SOLID  
 ✔️ Microservices Patterns  
-✔️ Observability & Monitoring  
+✔️ Observability & Monitoring
 ✔️ CI/CD & Automation  
 
 ---
 
+🤝 Looking for hackathon teams and collaborations  
+💻 Backend | DevOps | System Analysis (basics) | ML (basics)  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
